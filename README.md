@@ -15,7 +15,8 @@ A PyQt6-based GUI application that includes a calendar widget, time display, and
 ## Screenshots
 
 ### Main Interface
-![Main Interface](screenshot_main_ui.png)
+![Screenshot 2024-12-27 175522](https://github.com/user-attachments/assets/e2bc5ab4-7bd0-4c40-9283-1cad89e37994)
+
 
 ## Requirements
 
